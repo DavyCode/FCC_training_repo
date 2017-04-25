@@ -1,0 +1,36 @@
+HTML — Structuring the Web
+	Introduction to HTML
+	Introduction to HTML overview
+	Getting started with HTML
+	What's in the head? Metadata in HTML
+	HTML text fundamentals
+	Creating hyperlinks
+	Advanced text formatting
+	Document and website structure
+	Debugging HTML
+
+assessment: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter
+assessment: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+
+Multimedia and embedding
+   	Multimedia and embedding overview
+	Images in HTML
+	Video and audio content
+	From object to iframe — other embedding technologies
+	Adding vector graphics to the Web
+	Responsive images
+
+Assessment: Mozilla splash page   https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
+
+
+HTML tables
+	HTML tables overview
+	HTML table basics
+	HTML Table advanced features and accessibility
+
+Assessment: Structuring planet data   https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data
+
+RESOURCE URL : https://developer.mozilla.org/en-US/docs/Learn
+
+Clone the following repository to your github account to keep track with our progress and also we'll use it for collaboration and assessment tracking.
+https://github.com/DavyCode/FCC_training_repo
